@@ -12,7 +12,7 @@ This project demonstrates a simple PHP-based bot-blocking mechanism using Honeyp
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bot-blocker.git
-```
+``
 ## Social Media Links
 
 You can connect with me on the following platforms:
